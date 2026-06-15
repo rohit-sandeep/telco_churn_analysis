@@ -3,7 +3,7 @@
 # Combating Early-Stage Customer Churn: A Hypothesis-Driven Diagnostic of Telco Lifespans
 
 ## Executive Summary
-This project delivers an end-to-end analytics pipeline investigating customer retention mechanics for a major telecommunications provider. The primary objective was to diagnose a critical front-heavy retention anomaly: **36% of all month-to-month customer drop-offs occur within the first 90 days of onboarding.**
+This project delivers an end-to-end analytics pipeline investigating customer retention mechanics for a telecommunications provider. The primary objective was to diagnose a critical front-heavy retention anomaly: **36% of all month-to-month customer drop-offs occur within the first 90 days of onboarding.**
 
 Through a structured, hypothesis-driven diagnostic framework, traditional internal assumptions regarding billing friction were systematically debunked using baseline data distribution checks (avoiding the Base Rate Fallacy). Instead, a critical service-layer gap was uncovered: **Fiber Optic subscribers are severely over-represented in early-stage churn, specifically when navigating onboarding without support add-ons.**
 
